@@ -209,7 +209,7 @@ The clean architecture makes testing straightforward with clear boundaries:
 ## 🚀 Deployment
 
 ### Vercel
-
+https://configurable-text-processing-pipeli.vercel.app/
 ### Netlify
 
 ## 🔗 Resources
