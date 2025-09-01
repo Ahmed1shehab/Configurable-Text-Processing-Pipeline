@@ -211,6 +211,7 @@ The clean architecture makes testing straightforward with clear boundaries:
 ### Vercel
 https://configurable-text-processing-pipeli.vercel.app/
 ### Netlify
+https://configurable-text-processing-pipeline.netlify.app/
 
 ## 🔗 Resources
 
